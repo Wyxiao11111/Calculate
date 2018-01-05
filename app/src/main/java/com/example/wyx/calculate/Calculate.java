@@ -7,11 +7,11 @@ package com.example.wyx.calculate;
 public class Calculate {
     public Calculate(double a,int b){
         this.a = a;
-        this.b = b;    //type
+        this.b = b;
     }
     public double a = 0;
 
-    public int b =0;
+    public int b = 0;
 
 
 }
